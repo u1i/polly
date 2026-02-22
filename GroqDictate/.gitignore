@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build products
+*.app
+PollyIcon.icns
+ParrotTemplate*.png
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.xcuserdatad
+
+# Temporary files
+*_tmp*
